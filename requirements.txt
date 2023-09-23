@@ -25,3 +25,4 @@ wheel==0.37.1
 xz==5.2.8
 zlib==1.2.13
 mysqlclient
+djangorestframework~=3.14.0
